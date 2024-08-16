@@ -7,7 +7,6 @@ import { create } from 'ipfs-http-client';
 dotenv.config();
 
 const gateways = [
-  'https://cf-ipfs.com/ipfs/',
   'https://ipfs.io/ipfs/',
   'https://dweb.link/ipfs/',
   'https://cloudflare-ipfs.com/ipfs/',
