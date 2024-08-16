@@ -89,16 +89,20 @@ Before running the script, ensure you have:
 - **RPC Node error**: Indicates issues related to the SDK or network connection.
 - **Error fetching bonding curve data**: Related to SDK issues.
 - **Error fetching data from URI**: You may have hit the limit on public IPFS gateways; consider using a private IPFS node.
+
 -**Invalid asset data...... Skipping...**: No tokens in assets.txt at the time of checking
 
 ## Warning
 **Just ignore**
-while installing.....
-npm warn deprecated multiaddr-to-uri@8.0.0:
-npm warn deprecated multiaddr@10.0.1:
-npm warn deprecated ipfs-core-types@0.10.3:
-npm warn deprecated ipfs-core-utils@0.14.3:
-npm warn deprecated ipfs-http-client@56.0.3:
+**npm warn deprecated multiaddr-to-uri@8.0.0:**
+
+**npm warn deprecated multiaddr@10.0.1:**
+
+**npm warn deprecated ipfs-core-types@0.10.3:**
+
+**npm warn deprecated ipfs-core-utils@0.14.3:**
+
+**npm warn deprecated ipfs-http-client@56.0.3:**
 
 
 ## Disclaimer
