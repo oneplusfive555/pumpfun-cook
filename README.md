@@ -1,6 +1,6 @@
-# Pumpfuncook Bot
+# Pumpfun-cook Bot
 
-The Pumpfuncook Bot is a tool designed to automate the monitoring, buying, and selling of tokens on the pump.fun platform in the Solana blockchain. It executes trades based on predefined parameters and strategies set by the user.
+The Pumpfun-cook Bot is a tool designed to automate the monitoring, buying, and selling of tokens on the pump.fun platform in the Solana blockchain. It executes trades based on predefined parameters and strategies set by the user.
 
 ## Prerequisites
 
@@ -31,9 +31,16 @@ Before running the script, ensure you have:
     ```
 
    You should see output similar to the following:
-                =====================================
-                        Pumpfuncook Bot! 🚀
 
+    ============================================================
+                                             pumpfun-cook Bot! 🚀
+                         ============================================================
+                         Remember to trade responsibly. 
+                         The market can be wild, and it's important to make informed decisions 
+                         and manage your risks.
+                         Happy sniping and may the gains be with you!
+        
+                         ============================================================
 ## Configuration
 
 ### Wallet
@@ -88,6 +95,6 @@ Before running the script, ensure you have:
 
 ## Disclaimer
 
-The Pumpfuncook Bot is provided "as is" for educational purposes. Trading cryptocurrencies and tokens involves risk, and past performance is not indicative of future results. The use of this bot is at your own risk, and the developers are not responsible for any losses incurred.
+The Pumpfun-cook Bot is provided "as is" for educational purposes. Trading cryptocurrencies and tokens involves risk, and past performance is not indicative of future results. The use of this bot is at your own risk, and the developers are not responsible for any losses incurred.
 
 You are not permitted to sell, distribute, or otherwise use this software for commercial purposes. Modifications are allowed, but the software must remain free for all users. Any violation of this clause will result in a breach of the license agreement.
