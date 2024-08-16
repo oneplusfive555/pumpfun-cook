@@ -30,17 +30,14 @@ Before running the script, ensure you have:
     npm run start
     ```
 
-   You should see output similar to the following:
+    You should see output similar to the following:
 
+    ```
     ============================================================
-                                             pumpfun-cook Bot! 🚀
-                         ============================================================
-                         Remember to trade responsibly. 
-                         The market can be wild, and it's important to make informed decisions 
-                         and manage your risks.
-                         Happy sniping and may the gains be with you!
-        
-                         ============================================================
+                        Pumpfuncook Bot! 🚀
+    ============================================================
+    
+    ```
 ## Configuration
 
 ### Wallet
