@@ -1,6 +1,6 @@
 # Pumpfun-cook Bot
-
 The Pumpfun-cook Bot is a tool designed to automate the monitoring, buying, and selling of tokens on the pump.fun platform in the Solana blockchain. It executes trades based on predefined parameters and strategies set by the user.
+The bot finds new token, checks for filters (if set), buys the token, adds the bought token to assets.txt, and sells them by checking for profit/loss.
 
 ## Prerequisites
 
@@ -89,6 +89,17 @@ Before running the script, ensure you have:
 - **RPC Node error**: Indicates issues related to the SDK or network connection.
 - **Error fetching bonding curve data**: Related to SDK issues.
 - **Error fetching data from URI**: You may have hit the limit on public IPFS gateways; consider using a private IPFS node.
+-**Invalid asset data...... Skipping...**: No tokens in assets.txt at the time of checking
+
+## Warning
+**Just ignore**
+while installing.....
+npm warn deprecated multiaddr-to-uri@8.0.0:
+npm warn deprecated multiaddr@10.0.1:
+npm warn deprecated ipfs-core-types@0.10.3:
+npm warn deprecated ipfs-core-utils@0.14.3:
+npm warn deprecated ipfs-http-client@56.0.3:
+
 
 ## Disclaimer
 
