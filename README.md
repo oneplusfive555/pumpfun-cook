@@ -95,3 +95,8 @@ Before running the script, ensure you have:
 The Pumpfun-cook Bot is provided "as is" for educational purposes. Trading cryptocurrencies and tokens involves risk, and past performance is not indicative of future results. The use of this bot is at your own risk, and the developers are not responsible for any losses incurred.
 
 You are not permitted to sell, distribute, or otherwise use this software for commercial purposes. Modifications are allowed, but the software must remain free for all users. Any violation of this clause will result in a breach of the license agreement.
+
+## contact 
+telegram: t.me/k0rela
+discord : @bokxa  
+**If you want to leave a tip, you can send it to the following address: 8vJbsGogF3miHRt8YG2pmyW8c1NVHAXF1SAGKsg9zkFp**
